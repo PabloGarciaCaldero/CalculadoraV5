@@ -4,7 +4,7 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/grisv1</item>
         <item name="colorPrimaryVariant">@color/grisv1</item>
-        <item name="colorOnPrimary">@color/grisv3</item>
+        <item name="colorOnPrimary">@color/azulfino</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
         <item name="colorSecondaryVariant">@color/teal_200</item>
